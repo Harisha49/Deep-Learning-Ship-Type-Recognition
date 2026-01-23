@@ -1,0 +1,21 @@
+Single Data Type
+
+Integer x=20 
+Float b = 3.14
+Complex c = 2 + 3j
+String name = "Python"
+Boolean is_active = True
+
+Multiple Data Type
+
+Set nums = {1, 2, 3, 4}
+List numbers = [1, 2, 3, 4]
+Tuple colors = ("red", "green", "blue")
+Dictionary 
+student = {
+    "name": "Hari",
+    "age": 20,
+    "course": "Python"
+}
+
+
